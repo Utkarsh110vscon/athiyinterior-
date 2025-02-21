@@ -288,8 +288,10 @@ padding: 10px 5px;
 
 
 .useful_main ul li a {padding: 0px 12px;}
-ul.location li {padding-bottom: 20px;}
+ul.location li {padding-bottom: 20px; font-size: 30px;}
 
+ul.location li a {margin-bottom: 5px; font-size: 30px;}
+ul.location li img {width:35px; height:30px ; padding: 4px;}
 
 
     .last {display: none;}
@@ -498,5 +500,7 @@ ul.link li {
     font-size: 11px;
 padding: 0px 2px;
 }
-ul.location li {margin-bottom: 20px;}
+ul.location li {margin-bottom: 5px; font-size: 10px; padding: 3px;}
 }
+ul.location li a {margin-bottom: 5px; font-size: 10px;}
+ul.location li img {width:25px; height:20px ; padding: 1.5px;}
